@@ -1,5 +1,5 @@
 ---
-title: Three sets of random numbers
+title: Three sets of numbers
 author: You
 output: html_document
 ---
